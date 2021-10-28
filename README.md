@@ -1,8 +1,4 @@
-### И тебе привет )
 
-
-
-<!--
 **Bafomet666/Bafomet666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Добро пожаловать ко мне на github, здесь вы можете увидеть полноценные инструменты и демо версии платных.
